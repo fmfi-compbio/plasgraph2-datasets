@@ -1,6 +1,6 @@
 # plasgraph2-datasets
 
-This repository contains training and testing sets for the PlASgraph2 tool. 
+This repository contains training and testing sets for the [PlASgraph2](https://github.com/cchauve/plASgraph2) tool. 
 
 Each set is consists of 
 
